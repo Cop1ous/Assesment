@@ -1,0 +1,123 @@
+.sidenav {
+    height: 100%; 
+    width: 160px; 
+    position: fixed;
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    background-color: #FFF; 
+    padding-top: 20px;
+    border: 1px solid #0C119C;
+}
+  
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+    background-color: #0C119C;
+  }
+  
+.main {
+    margin-left: 160px;
+    padding: 0px 10px;
+}
+
+#Developer {
+    font-style: italic;
+}
+
+.Experiences {
+    border: 5px solid #FF0000;
+    justify-content: left;
+    padding: 20px;
+    margin-left: 250px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+
+#LD {
+    font-weight: lighter;
+}
+
+.Edu {
+    border: 5px solid #FF8800;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 800px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: -150px;
+}
+
+#School {
+    font-weight: lighter;
+}
+
+.Projects {
+    border: 5px solid #FFFF00;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 250px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#Completed {
+    font-weight: lighter;
+}
+
+.Volunteering {
+    border: 5px solid #00FF00;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 800px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: -150px;
+}
+
+#Shirts {
+    font-weight: lighter;
+}
+
+.Skills {
+    border: 5px solid #0000FF;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 250px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#Code {
+    font-weight: lighter;
+}
+
+.Interests {
+    border: 5px solid #00FFFF;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 800px; 
+    width: 200px;
+    font-weight: bold;
+    margin-top: -150px;
+}
+
+#Sports {
+    font-weight: lighter;
+}
+
+.db {
+    margin-left: 200px;
+    font-size:larger;
+    font-weight: 600;
+}
